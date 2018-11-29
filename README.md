@@ -222,7 +222,6 @@ This is a selection of books for Data Science and related disciplines from which
 
 |  | **Title** | **Author** | **Publisher** | **Release Date** | **Code** |
 | ---------- | ----- | ------ | --------- | ------------ | ---- |
-
 | ✔️ | [Python Tricks: The Book](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301/) | Dan Bader | Ron Holland Designs | Oct&nbsp;2017 | 
 | ◻️ | [Python for Data Analysis (2nd ed.)](https://www.safaribooksonline.com/library/view/python-for-data/9781491957653/) | Wes McKinney | O'Reilly | Oct&nbsp;2017 | [GitHub](https://github.com/wesm/pydata-book/tree/2nd-edition) |
 | ◻️ | [Fundamentals of Deep Learning](https://www.safaribooksonline.com/library/view/fundamentals-of-deep/9781491925607/) | Nikhil Buduma | O'Reilly | Jun&nbsp;2017 | [GitHub](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book) |
