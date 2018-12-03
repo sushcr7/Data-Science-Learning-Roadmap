@@ -35,16 +35,8 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 7. [Probability and Statistics](#7-probability-and-statistics-back-to-top-).
     - [Python](#python-back-to-top--6).
     - [R](#r-back-to-top--6).
-8. [Big Data](#8-big-data-back-to-top-).
-    - [General](#general-back-to-top-).
-    - [Spark](#spark-back-to-top-).
-9. [Books](#9-books-back-to-top-).    
-10. [Other courses in Computer Science](#10-other-courses-in-computer-science-back-to-top-).
-    - [Software Design](#software-design-back-to-top-).
-    - [JavaScript](#javascript-back-to-top--1).    
-    - [Python](#python-back-to-top--7).
-    - [R](#r-back-to-top--7).
-    - [Miscellaneous](#miscellaneous-back-to-top-).
+8. [Books](#9-books-back-to-top-).    
+
 
 ---  
 
@@ -117,43 +109,12 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 
 
 # 4. MACHINE LEARNING <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-### Octave/Matlab <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [X] [Machine Learning](https://www.coursera.org/learn/machine-learning) (by Andrew Ng from at Stanford at Coursera). ~ 55 hours.
-- [ ] [Learning from Data]() (by Yaser Abu-Mostafa at Caltech). ~ 108 hours.
 
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python) (by Benjamin Wilson at DataCamp). ~ 4 hours.
-- [X] [Making Predictions with Data and Python](https://www.safaribooksonline.com/library/view/making-predictions-with/9781788297448/) (by Alvaro Fuentes at Safari). ~ 4 hours. _[My github repo](https://github.com/estraviz/Making-Predictions-with-Data-and-Python)._
-- [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) (by Andrew Ng from deeplearning.ai at Coursera) ~ 12 hours. 
-- [X] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
-- [X] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (by Andrew Ng from deeplearning.ai at Coursera) ~ 6 hours. 
-- [X] [Deep Learning for Business](https://www.coursera.org/learn/deep-learning-business) (by Jong-Moon Chung from Yonsei University at Coursera) ~ 8 hours. 
-- [ ] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) (by Andreas Müller and Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
-- [ ] [Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets) (by Peter Bull at DataCamp). ~ 4 hours.
-- [ ] [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) (by Dan Becker at DataCamp). ~ 4 hours.
-- [ ] [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) (by Christopher Brooks from University of Michigan at Coursera) ~ 40 hours.
-- [ ] [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) (by Christopher Brooks from University of Michigan at Coursera) ~ 40 hours.  
-- [ ] [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning) (by Kevyn Collins-Thompson from University of Michigan at Coursera) ~ 40 hours.
-- [ ] [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining) (by V.G. Vinod Vydiswaran from University of Michigan at Coursera) ~ 40 hours.
-- [ ] [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis) (by Daniel Romero from University of Michigan at Coursera) ~ 40 hours.
-- [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations) (by Carlos Guestrin and Emily Fox from University of Washington at Coursera) ~ 30 hours.
-- [ ] [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) (by Emily Fox and Carlos Guestrin from University of Washington at Coursera) ~ 30 hours.
-- [ ] [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification) (by Carlos Guestrin and Emily Fox from University of Washington at Coursera) ~ 35 hours.
-- [ ] [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval) (by Emily Fox and Carlos Guestrin from University of Washington at Coursera) ~ 30 hours.
-- [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) (by Andrew Ng from deeplearning.ai at Coursera). 
-- [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) (by Andrew Ng from deeplearning.ai at Coursera). 
-- [ ] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) (by Geoffrey Hinton from University of Toronto at Coursera). ~ 112 hours.
-- [ ] [Probabilistic Graphical Models 1: Representation](https://www.coursera.org/learn/probabilistic-graphical-models) (by Daphne Koller from Stanford at Coursera) ~ 75 hours.
-- [ ] [Probabilistic Graphical Models 2: Inference](https://www.coursera.org/learn/probabilistic-graphical-models-2-inference) (by Daphne Koller from Stanford at Coursera) ~ 75 hours.
-- [ ] [Probabilistic Graphical Models 3: Learning](https://www.coursera.org/learn/probabilistic-graphical-models-3-learning) (by Daphne Koller from Stanford at Coursera) ~ 75 hours.
-- [ ] [Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) (by Katie Malone and Sebastian Thrun at Udacity). ~ 100 hours.
-- [ ] [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) (by Michael Littman, Charles Isbell and Pushkar Kolhe at Udacity). ~ 160 hours.
-- [ ] [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (by Vincent Vanhoucke and Arpan Chakraborty at Udacity). ~ 120 hours.
-- [ ] [Practical Deep Learning For Coders, Part 1](http://course.fast.ai/index.html) (by Jeremy Howard from fast.ai) ~ 90 hours.
-- [ ] [Cutting Edge Deep Learning For Coders, Part 2](http://course.fast.ai/part2.html) (by Jeremy Howard from fast.ai) ~ 90 hours.
-- [ ] [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv) (by Parag Mital at Kadenze) ~ 30 hours.
-- [ ] [Neural Networks](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) (by Hugo Larochelle from Université de Sherbrooke).
-- [ ] [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) (by Nando de Freitas at Oxford University).
+- [X] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) (by Andreas Müller and Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
+- [X] [Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets) (by Peter Bull at DataCamp). ~ 4 hours.
+- [X] [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)( by Dan Becker at DataCamp). ~ 4 hours.
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning) (by Jeff Leek, Roger D. Peng and Brian Caffo from Johns Hopkins University at Coursera). ~ 16 hours.
