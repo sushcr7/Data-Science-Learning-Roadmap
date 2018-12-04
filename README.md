@@ -14,27 +14,23 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
     - [Python](#python-back-to-top-). 
     - [R](#r-back-to-top-).
     - [SQL](#sql-back-to-top-).
-2. [General Courses in Data Science](#2-general-courses-in-data-science-back-to-top-).
-    - [Python](#python-back-to-top--1).
-    - [R](#r-back-to-top--1).
-3. [Data Analysis](#data-analysis-back-to-top--2).
+2. [Data Analysis](#2-data-analysis-back-to-top-).
     - [Python](#python-back-to-top--2).
     - [R](#r-back-to-top--2).
-    - [Weka](#weka-back-to-top-).
-4. [Machine Learning](#4-machine-learning-back-to-top-).
-    - [Octave/Matlab](#octavematlab-back-to-top-).
+3. [Machine Learning](#3-machine-learning-back-to-top-).
     - [Python](#python-back-to-top--3).
     - [R](#r-back-to-top--3).
-5. [Text Mining and NLP](#5-text-mining-and-nlp-back-to-top-).
+4. [Text Mining and NLP](#4-text-mining-and-nlp-back-to-top-).
     - [Python](#python-back-to-top--4).
     - [R](#r-back-to-top--4).
-6. [Data Visualization and Reporting](#6-data-visualization-and-reporting-back-to-top-).
+5. [Data Visualization and Reporting](#5-data-visualization-and-reporting-back-to-top-).
     - [Python](#python-back-to-top--5).
     - [R](#r-back-to-top--5).
-    - [JavaScript](#javascript-back-to-top-).
-7. [Probability and Statistics](#7-probability-and-statistics-back-to-top-).
+6. [Probability and Statistics](#6-probability-and-statistics-back-to-top-).
     - [Python](#python-back-to-top--6).
     - [R](#r-back-to-top--6).
+7. [Business Analytics](#7-business-analytics-).
+    - [R](#r-back-to-top--1).    
 8. [Books](#9-books-back-to-top-).    
 
 
@@ -153,7 +149,13 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 - [X] [Introduction to Spark in R using sparklyr](https://www.datacamp.com/courses/introduction-to-spark-in-r-using-sparklyr) (by Richie Cotton at DataCamp). ~ 4 hours.
 - [X] [Building Recommendation Engines with PySpark](https://www.datacamp.com/courses/recommendation-engines-in-pyspark) (by Jamen Long at DataCamp). ~ 4 hours.
 
-# 7. BUSINESS ANALYTICS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# 8. BUSINESS ANALYTICS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+
+### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+- [X] [People Analytics](https://www.coursera.org/learn/wharton-people-analytics) (by University of Pennsylvania at Coursera). ~ 8 hours.
+- [X] [Operation Analytics](https://www.coursera.org/learn/wharton-operations-analytics) (by University of Pennsylvania at Coursera). ~ 12 hours.
+- [X] [Customer Analytics](https://www.coursera.org/learn/wharton-customer-analytics) (by University of Pennsylvania at Coursera). ~ 24 hours.
+
 
 ### Spark <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Introduction to Spark in R using sparklyr](https://www.datacamp.com/courses/introduction-to-spark-in-r-using-sparklyr) (by Richie Cotton at DataCamp). ~ 4 hours.
