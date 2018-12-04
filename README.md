@@ -29,8 +29,10 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 6. [Probability and Statistics](#6-probability-and-statistics-back-to-top-).
     - [Python](#python-back-to-top--6).
     - [R](#r-back-to-top--6).
-7. [Business Analytics](#7-business-analytics-).
-    - [R](#r-back-to-top--1).    
+7. [Big Data](#7-big-data-).
+    - [Spark](#spark-back-to-top--7).        
+8. [Business Analytics](#8-business-analytics-).
+    - [R](#r-back-to-top--8).    
 8. [Books](#9-books-back-to-top-).    
 
 
