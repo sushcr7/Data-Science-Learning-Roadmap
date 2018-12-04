@@ -114,10 +114,17 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 - [X] [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python) (by Benjamin Wilson at DataCamp). ~ 4 hours.
 - [X] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) (by Andreas Müller and Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
 - [X] [Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets) (by Peter Bull at DataCamp). ~ 4 hours.
+- [X] [Preprocessing for Machine Learning in Python](https://www.datacamp.com/courses/preprocessing-for-machine-learning-in-python)( by Sarah Guido at DataCamp). ~ 4 hours.
 - [X] [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)( by Dan Becker at DataCamp). ~ 4 hours.
+- [X] [Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)( by Ariel Rokem at DataCamp). ~ 4 hours.
+
+- [X] [Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)( by Mike Gelbart at DataCamp). ~ 4 hours.
+- [X] [Machine Learning with Tree based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)( by Elie Kawerk at DataCamp). ~ 5 hours.
+- [X] [Extreme Gradient Boosting with XGBoost in Python](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)( by Sergey Fogelson at DataCamp). ~ 4 hours.
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning) (by Jeff Leek, Roger D. Peng and Brian Caffo from Johns Hopkins University at Coursera). ~ 16 hours.
+- [X] [Kaggle R tutorial on Machine Learning](
 - [ ] [Machine Learning Toolbox](https://www.datacamp.com/courses/machine-learning-toolbox) (by Zachary Deane-Mayer and Max Kuhn at DataCamp). ~ 4 hours.
 - [ ] [Introduction to Machine Learning](https://www.datacamp.com/courses/introduction-to-machine-learning-with-r) (by Vincent Vankrunkelsven and Gilles Inghelbrecht at DataCamp). ~ 6 hours.
 - [ ] [Unsupervised Learning in R](https://www.datacamp.com/courses/unsupervised-learning-in-r) (by Hank Roark at DataCamp). ~ 4 hours.
@@ -126,7 +133,8 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 
 # 5. TEXT MINING AND NLP <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [ ] [Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python) (by Katharine Jarmul at DataCamp). ~ 4 hours.
+- [X] [Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python) (by Katharine Jarmul at DataCamp). ~ 4 hours.
+- [ ] [Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python) (by Alan Nichol at DataCamp). ~ 4 hours. 
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [ ] [Text Mining: Bag of Words](https://www.datacamp.com/courses/intro-to-text-mining-bag-of-words) (by Ted Kwartler at DataCamp). ~ 4 hours.
@@ -135,61 +143,51 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
 # 6. DATA VISUALIZATION AND REPORTING <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python) (by Bryan Van de Ven at DataCamp). ~ 4 hours.
-- [ ] [Interactive Data Visualization with `bokeh`](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh) (by Bryan Van de Ven at DataCamp). ~ 4 hours.
+- [X] [Interactive Data Visualization with `bokeh`](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh) (by Bryan Van de Ven at DataCamp). ~ 4 hours.
 
-### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [X] [Reproducible Research](https://www.coursera.org/learn/reproducible-research) (by Roger D. Peng, Jeff Leek and Brian Caffo from Johns Hopkins University at Coursera). ~ 16 hours.
-- [ ] [Data Analysis and Visualization](https://www.udacity.com/course/data-analysis-and-visualization--ud404) (by Arpan Chakraborty at Udacity). ~ 160 hours.
-- [ ] [Data Visualization in R](https://www.datacamp.com/courses/data-visualization-in-r) (by Ronald Pearson at DataCamp). ~ 4 hours.
-- [ ] [Data Visualization in R with lattice](https://www.datacamp.com/courses/data-visualization-in-r-with-lattice) (by Deepayan Sarkar at DataCamp). ~ 4 hours.
-- [ ] [Data Visualization with `ggplot2` (Part 1)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1) (by Rick Scavetta at DataCamp). ~ 5 hours.
+### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>.
+- [X] [Data Visualization with `ggplot2` (Part 1)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1) (by Rick Scavetta at DataCamp). ~ 5 hours.
 - [ ] [Data Visualization with `ggplot2` (Part 2)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2) (by Rick Scavetta at DataCamp). ~ 5 hours.
 - [ ] [Data Visualization with `ggplot2` (Part 3)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-part-3) (by Rick Scavetta at DataCamp). ~ 6 hours.
 - [ ] [Reporting with R Markdown](https://www.datacamp.com/courses/reporting-with-r-markdown) (by Garrett Grolemund at DataCamp). ~ 3 hours.
-- [ ] [Working with Geospatial Data in R](https://www.datacamp.com/courses/working-with-geospatial-data-in-r) (by Charlotte Wickham at DataCamp). ~ 4 hours.
 
-### JavaScript <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [ ] [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507) (by Ryan Orban, Chris Saden and Jonathan Dinu at Udacity) ~ 70 hours.
 
 
 # 7. PROBABILITY AND STATISTICS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+
 ### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [X] [Probabilistic Modeling and Bayesian Networks](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Borja Calvo and Aritz Pérez. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
 - [X] [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1) (by Justin Bois at DataCamp). ~ 3 hours.
-- [ ] [Developing Data Products](https://www.coursera.org/learn/data-products) (by Brian Caffo, Jeff Leek and Roger D. Peng from Johns Hopkins University at Coursera). ~ 16 hours.
-- [ ] [Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2) (by Justin Bois at DataCamp). ~ 4 hours.
+- [X] [Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2) (by Justin Bois at DataCamp). ~ 4 hours.
 - [ ] [Case Studies in Statistical Thinking](https://www.datacamp.com/courses/case-studies-in-statistical-thinking) (by Justin Bois at DataCamp). ~  4 hours.
-- [ ] [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1) (by Eric Ma at DataCamp). ~ 4 hours.
+- [X] [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1) (by Eric Ma at DataCamp). ~ 4 hours.
 - [ ] [Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2) (by Eric Ma at DataCamp). ~ 4 hours.
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
-- [X] [Statistical Inference](https://www.coursera.org/learn/statistical-inference) (by Brian Caffo, Roger D. Peng and Jeff Leek from Johns Hopkins University at Coursera). ~ 28 hours.
-- [X] [Regression Models](https://www.coursera.org/learn/regression-models) (by Brian Caffo, Roger D. Peng and Jeff Leek from Johns Hopkins University at Coursera). ~ 16 hours.
-- [ ] [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) (by Trevor Hastie and Robert Tibshirani from Stanford at Stanford Online). ~ 50 hours.
-- [ ] [Introduction to Data](https://www.datacamp.com/courses/introduction-to-data) (by Mine Cetinkaya-Rundel at DataCamp). ~ 4 hours.
-- [ ] [Exploratory Data Analysis](https://www.datacamp.com/courses/exploratory-data-analysis) (by Andrew Bray at DataCamp). ~ 4 hours.
-- [ ] [Correlation and Regression](https://www.datacamp.com/courses/correlation-and-regression) (by Ben Baumer at DataCamp). ~ 4 hours.
-- [ ] [Multiple and Logistic Regression](https://www.datacamp.com/courses/multiple-and-logistic-regression) (by Ben Baumer at DataCamp). ~ 4 hours.
-- [ ] [Foundations of Inference](https://www.datacamp.com/courses/foundations-of-inference) (by Jo Hardin at DataCamp). ~ 4 hours.
-- [ ] [Foundations of Probability in R](https://www.datacamp.com/courses/foundations-of-probability-in-r) (by David Robinson at DataCamp). ~ 4 hours.
-- [ ] [Beginning Bayes in R](https://www.datacamp.com/courses/beginning-bayes-in-r/) (by Jim Albert at DataCamp). ~ 4 hours.
-- [ ] [Spatial Statistics in R](https://www.datacamp.com/courses/spatial-statistics-in-r) (by Barry Rowlingson at DataCamp). ~ 4 hours.
-- [ ] [Sentiment Analysis in R: The Tidy Way](https://www.datacamp.com/courses/sentiment-analysis-in-r-the-tidy-way) (by Julia Silge at DataCamp). ~ 4 hours.
+- [X] [Introduction to Data](https://www.datacamp.com/courses/introduction-to-data) (by Mine Cetinkaya-Rundel at DataCamp). ~ 4 hours.
+- [X] [Exploratory Data Analysis](https://www.datacamp.com/courses/exploratory-data-analysis) (by Andrew Bray at DataCamp). ~ 4 hours.
+- [X] [Correlation and Regression](https://www.datacamp.com/courses/correlation-and-regression) (by Ben Baumer at DataCamp). ~ 4 hours.
+- [X] [Multiple and Logistic Regression](https://www.datacamp.com/courses/multiple-and-logistic-regression) (by Ben Baumer at DataCamp). ~ 4 hours.
+- [X] [Foundations of Inference](https://www.datacamp.com/courses/foundations-of-inference) (by Jo Hardin at DataCamp). ~ 4 hours.
 
 
 
-# 8. BOOKS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# 8. BIG DATA <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+
+### Spark <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+- [X] [Introduction to Spark in R using sparklyr](https://www.datacamp.com/courses/introduction-to-spark-in-r-using-sparklyr) (by Richie Cotton at DataCamp). ~ 4 hours.
+- [X] [Building Recommendation Engines with PySpark](https://www.datacamp.com/courses/recommendation-engines-in-pyspark) (by Jamen Long at DataCamp). ~ 4 hours.
+
+# 9. BOOKS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 This is a selection of books for Data Science and related disciplines from which I have good references. The books are listed in descending order of publication date.
 
 |  | **Title** | **Author** | **Publisher** | **Release Date** | **Code** |
 | ---------- | ----- | ------ | --------- | ------------ | ---- |
-| ✔️ | [Python Tricks: The Book](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301/) | Dan Bader | Ron Holland Designs | Oct&nbsp;2017 | 
-| ◻️ | [Python for Data Analysis (2nd ed.)](https://www.safaribooksonline.com/library/view/python-for-data/9781491957653/) | Wes McKinney | O'Reilly | Oct&nbsp;2017 | [GitHub](https://github.com/wesm/pydata-book/tree/2nd-edition) |
+| ✔️  | [Python for Data Analysis (2nd ed.)](https://www.safaribooksonline.com/library/view/python-for-data/9781491957653/) | Wes McKinney | O'Reilly | Oct&nbsp;2017 | [GitHub](https://github.com/wesm/pydata-book/tree/2nd-edition) |
 | ◻️ | [Fundamentals of Deep Learning](https://www.safaribooksonline.com/library/view/fundamentals-of-deep/9781491925607/) | Nikhil Buduma | O'Reilly | Jun&nbsp;2017 | [GitHub](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book) |
-| ◻️ | [Practical Statistics for Data Scientists](http://shop.oreilly.com/product/0636920048992.do) | Peter Bruce, Andrew Bruce | O'Reilly | May&nbsp;2017 | [GitHub](https://github.com/andrewgbruce/statistics-for-data-scientists) |
-| ◻️ | [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/) | Aurélien Géron | O'Reilly | Apr&nbsp;2017 | [GitHub](https://github.com/ageron/handson-ml) |
+| ✔️ | [Practical Statistics for Data Scientists](http://shop.oreilly.com/product/0636920048992.do) | Peter Bruce, Andrew Bruce | O'Reilly | May&nbsp;2017 | [GitHub](https://github.com/andrewgbruce/statistics-for-data-scientists) |
+| ✔️  | [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/) | Aurélien Géron | O'Reilly | Apr&nbsp;2017 | [GitHub](https://github.com/ageron/handson-ml) |
 | ◻️ | [Python Data Science Handbook](https://www.safaribooksonline.com/library/view/python-data-science/9781491912126/) | Jake VanderPlas | O'Reilly | Nov&nbsp;2016 | [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook) |
 | ◻️ | [Introduction to Machine Learning with Python](https://www.safaribooksonline.com/library/view/introduction-to-machine/9781449369880/) | Sarah Guido, Andreas C. Müller | O'Reilly | Oct&nbsp;2016 | [GitHub](https://github.com/amueller/introduction_to_ml_with_python) |
-| ◻️ | [R for Data Science](https://www.safaribooksonline.com/library/view/r-for-data/9781491910382/) | Garrett Grolemund, Hadley Wickham | O'Reilly | Jul&nbsp;2016 | [GitHub](https://github.com/hadley/r4ds) |
-| ◻️ | [Data Science from Scratch](https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/) | Joel Grus | O'Reilly | Apr&nbsp;2015 | [GitHub](https://github.com/joelgrus/data-science-from-scratch) |
+| ✔️ | [R for Data Science](https://www.safaribooksonline.com/library/view/r-for-data/9781491910382/) | Garrett Grolemund, Hadley Wickham | O'Reilly | Jul&nbsp;2016 | [GitHub](https://github.com/hadley/r4ds) |
+| ✔️ | [Data Science from Scratch](https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/) | Joel Grus | O'Reilly | Apr&nbsp;2015 | [GitHub](https://github.com/joelgrus/data-science-from-scratch) |
 
