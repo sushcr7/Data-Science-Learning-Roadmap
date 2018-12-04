@@ -149,6 +149,8 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 - [X] [Introduction to Spark in R using sparklyr](https://www.datacamp.com/courses/introduction-to-spark-in-r-using-sparklyr) (by Richie Cotton at DataCamp). ~ 4 hours.
 - [X] [Building Recommendation Engines with PySpark](https://www.datacamp.com/courses/recommendation-engines-in-pyspark) (by Jamen Long at DataCamp). ~ 4 hours.
 
+
+
 # 8. BUSINESS ANALYTICS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
@@ -157,9 +159,6 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 - [X] [Customer Analytics](https://www.coursera.org/learn/wharton-customer-analytics) (by University of Pennsylvania at Coursera). ~ 24 hours.
 
 
-### Spark <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-- [X] [Introduction to Spark in R using sparklyr](https://www.datacamp.com/courses/introduction-to-spark-in-r-using-sparklyr) (by Richie Cotton at DataCamp). ~ 4 hours.
-- [X] [Building Recommendation Engines with PySpark](https://www.datacamp.com/courses/recommendation-engines-in-pyspark) (by Jamen Long at DataCamp). ~ 4 hours.
 
 # 9. BOOKS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 This is a selection of books for Data Science and related disciplines from which I have good references. The books are listed in descending order of publication date.
