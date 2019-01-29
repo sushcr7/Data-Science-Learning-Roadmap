@@ -98,7 +98,7 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
 - [X] [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning) (by Jeff Leek, Roger D. Peng and Brian Caffo from Johns Hopkins University at Coursera). ~ 16 hours.
-- [X] [Kaggle R tutorial on Machine Learning](). ~ 3 hours.
+- [X] [Kaggle R tutorial on Machine Learning](https://www.datacamp.com/community/open-courses/kaggle-r-tutorial-on-machine-learning) (by Weston Sterns at DataCamp). ~ 3 hours.
 - [ ] [Machine Learning Toolbox](https://www.datacamp.com/courses/machine-learning-toolbox) (by Zachary Deane-Mayer and Max Kuhn at DataCamp). ~ 4 hours.
 - [ ] [Introduction to Machine Learning](https://www.datacamp.com/courses/introduction-to-machine-learning-with-r) (by Vincent Vankrunkelsven and Gilles Inghelbrecht at DataCamp). ~ 6 hours.
 - [ ] [Unsupervised Learning in R](https://www.datacamp.com/courses/unsupervised-learning-in-r) (by Hank Roark at DataCamp). ~ 4 hours.
